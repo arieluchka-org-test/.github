@@ -1,3 +1,12 @@
+## Pull Request Templates
+
+<!-- Choose the appropriate template for your PR type: -->
+- **[Feature Template](PULL_REQUEST_TEMPLATE/feature.md)** - For new features and major functionality additions
+- **[Hotfix Template](PULL_REQUEST_TEMPLATE/hotfix.md)** - For critical production fixes requiring immediate attention
+- **[Template Guide](PULL_REQUEST_TEMPLATE/README.md)** - See all available templates and usage instructions
+
+---
+
 ## Description
 
 <!-- Please include a summary of the changes and the related issue. Please also include relevant motivation and context. -->
